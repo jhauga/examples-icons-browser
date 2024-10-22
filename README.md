@@ -1,6 +1,6 @@
 # Examples Icons Browser
 
-Support repo for flet-dev/examples pull request.
+Support repo for flet-dev/examples pull request [flet-dev/examples #178](https://github.com/flet-dev/examples/pull/178).
 
 To view - Start Codespace and Copy/Paste:
 
@@ -16,4 +16,4 @@ pip install flet
 flet run --web icons-browser.py
 ```
 
-After that a pop will appear providing a link to preview.
+After that the page will automatically open in the browser.
